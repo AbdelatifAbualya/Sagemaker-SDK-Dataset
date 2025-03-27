@@ -15,7 +15,7 @@ The dataset is structured in JSONL format and consists of three main components:
 
 3. **Synthetic Data (DeepSeek v3)**
    - About 75%-80% of the dataset.
-   - Fully synthetic entries generated using DeepSeek v3,hosted on Fireworks.ai, leveraging custom Python scripts to target specific AWS SageMaker functionalities and scenarios.
+   - Fully synthetic entries generated using DeepSeek v3, hosted on Fireworks.ai, leveraging custom Python scripts to target specific AWS SageMaker functionalities and scenarios.
 
 ## Data Quality Assurance
 - Each synthetic and semi-synthetic entry was generated and then subjected to random manual reviews by the dataset creator to ensure accuracy and relevance.
